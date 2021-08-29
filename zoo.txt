@@ -5,6 +5,7 @@ graphical perception
 dendrogram
 splom
 stem-and-leaf
+choropleth map
 
 
 
