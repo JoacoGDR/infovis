@@ -1,4 +1,10 @@
+adjacency diagrams
+enclosure diagrams
 visual encodings
 graphical perception
-Protovis
-...
+dendrogram
+splom
+stem-and-leaf
+
+
+
